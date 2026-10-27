@@ -1,0 +1,23 @@
+body {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 0 16px;
+}
+
+address {
+    font-style: normal;
+    line-height: 1.8;
+    padding: 16px;
+    border-left: 4px solid #4a7c3a;
+    background-color: #f4f8f1;
+}
+
+address span {
+    display: block;
+}
+
+address a {
+    color: #4a7c3a;
+    font-weight: bold;
+    text-decoration: none;
+}
